@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keyurdudhatra7979.github.io/s.m.securities/sitemap.xml
